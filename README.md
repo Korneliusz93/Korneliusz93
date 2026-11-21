@@ -33,7 +33,7 @@ OS         :: Linux | Windows
 ---
 
 ### `$ ./list_projects.sh`
-* **[tracker](https://github.com/Korneliusz93/engineering_change_tracker)** — Short 1-sentence description of what the tool or script does. `[Python, Redmine API]`
+* **[tracker](https://github.com/Korneliusz93/engineering_change_tracker)** — I’m developing practical tools to explore how workflows can be automated, information digitized, and data stored in a structured way.`[Python, Redmine API]`
 * **t.b.c.** ...
 
 ---
