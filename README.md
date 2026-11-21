@@ -39,4 +39,4 @@ OS         :: Linux | Windows
 ---
 
 ### `$ cat ./contact.info`
-* **Email:** rzeczyckikornel@email.com
+* **Email:** rzeczyckikornel@gmail.com
