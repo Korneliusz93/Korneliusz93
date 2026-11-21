@@ -33,7 +33,7 @@ OS         :: Linux | Windows
 ---
 
 ### `$ ./list_projects.sh`
-* **[project-one](link-to-repo)** — Short 1-sentence description of what the tool or script does. `[Python, Redmine]`
+* **[tracker](https://github.com/Korneliusz93/engineering_change_tracker)** — Short 1-sentence description of what the tool or script does. `[Python, Redmine API]`
 * **t.b.c.** ...
 
 ---
